@@ -10,9 +10,7 @@ Build and launch
 Requesting 
 ==
 Using the docker client :
-##
 `docker -H=127.0.0.1:8888 container ls`
 
 Using curl :
-##
 `curl -Lv -k  http://localhost:8888/containers/json`
