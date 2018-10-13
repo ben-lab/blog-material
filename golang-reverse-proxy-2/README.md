@@ -5,7 +5,7 @@ See : https://ben-appsec.github.io/golang-reverse-proxy-2-4/
 
 Build and launch
 ==
-`docker-compose up .`
+`docker-compose up`
 
 Requesting 
 ==
